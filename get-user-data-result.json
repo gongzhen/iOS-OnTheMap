@@ -1,0 +1,11 @@
+result: {
+    account =     {
+        key = u2448311;
+        registered = 1;
+    };
+    session =     {
+        expiration = "2016-05-31T20:56:59.140320Z";
+        id = 1491080219S962b8c14e0a3794810b7d39e3348ead2;
+    };
+}
+
